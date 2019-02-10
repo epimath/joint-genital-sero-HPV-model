@@ -2,7 +2,7 @@
 
 This is the source code for the article:
 
-Andrew F. Brouwer<sup>a</sup>, Rafael Meza<sup>b</sup>, and Marisa C. Eisenberg<sup>b</sup>. 2019. Integrating measures of viral prevalence and seroprevalence: a mechanistic modeling approach to explaining cohort patterns of HPV in women in the U.S. *Philosophical Transactions B*, in press. <sup>a</sup> corresponding author. <sup>b</sup> equal contribution.
+Integrating measures of viral prevalence and seroprevalence: a mechanistic modeling approach to explaining cohort patterns of HPV in women in the U.S. Andrew F. Brouwer<sup>a</sup>, Rafael Meza<sup>b</sup>, and Marisa C. Eisenberg<sup>b</sup>. *Philosophical Transactions B*, 2019, in press. <sup>a</sup> Corresponding author. <sup>b</sup> Equal contribution.
 
 Questions? Contact Andrew Brouwer (brouweaf@umich.edu), or Rafael Meza (rmeza@umich.edu), or Marisa Eisenberg (marisae@umich.edu).
 
